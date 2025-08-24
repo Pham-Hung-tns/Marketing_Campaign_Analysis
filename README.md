@@ -1,4 +1,5 @@
-# Purpose: Analysis of the effectiveness of personalization strategies in marketing. The insights from the project showed that personalization is especially effective on Instagram with younger age groups, while the strategy needs to be adjusted for older age groups or languages ​​such as German/Arabic. The project uses A/B testing and the lift function as a powerful tool for measurement and automated analysis, helping the organization optimize future marketing campaigns.
+# Purpose: 
+Analysis of the effectiveness of personalization strategies in marketing. The insights from the project showed that personalization is especially effective on Instagram with younger age groups, while the strategy needs to be adjusted for older age groups or languages ​​such as German/Arabic. The project uses A/B testing and the lift function as a powerful tool for measurement and automated analysis, helping the organization optimize future marketing campaigns.
 # Link to Dataset: https://www.kaggle.com/datasets/kavitabhagwani/marketing-campaign/data
 # Insights:
 
